@@ -1,2 +1,4 @@
-# study-plans
-Feihong's study plans
+# Feihong's study plans
+
+- [F#](fsharp.md)
+- [JavaScript](javascript.md)
