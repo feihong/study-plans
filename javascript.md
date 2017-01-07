@@ -9,9 +9,17 @@
 
 ## Talks to give
 
-## Coroutines
+### Coroutines
 
 Show how to use coroutines to make async control flow more readable. Example shows how to download and display info about local movie showtimes.
+
+### Build a website for your JavaScript examples
+
+## Projects
+
+- Examples site
+- Nearby restaurants
+- Nearby events
 
 ## Questions
 
