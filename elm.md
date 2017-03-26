@@ -5,9 +5,11 @@
 - [Elm Koans](https://github.com/robertjlooby/elm-koans)
 - [Examples from elm-lang.org](https://github.com/elm-lang/elm-lang.org/tree/master/src/examples)
 - [Richard Feldman's intro Elm workshop](https://github.com/rtfeldman/elm-workshop)
-- ["Making Impossible States Impossible" by Richard Feldman](https://www.youtube.com/watch?v=IcgmSRJHu_8)
+- ["Making Impossible States Impossible" by Richard Feldman](https://www.youtube.com/watch?v=IcgmSRJHu_8)[Elm 
+- [Scaling the Elm Architecture](https://guide.elm-lang.org/reuse/)
 - [Sebastian Porto's Elm Tutorial](https://www.elm-tutorial.org/en/)
 - [Elm Exercism track](http://exercism.io/languages/elm/exercises)
+- [Elm Town Podcast](https://elmtown.github.io/)
 
 ## Projects
 
