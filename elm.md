@@ -7,6 +7,8 @@
 - [Richard Feldman's intro Elm workshop](https://github.com/rtfeldman/elm-workshop)
 - ["Making Impossible States Impossible" by Richard Feldman](https://www.youtube.com/watch?v=IcgmSRJHu_8)[Elm 
 - [Scaling the Elm Architecture](https://guide.elm-lang.org/reuse/)
+- [About API Design section of elm-sortable-table README](https://github.com/evancz/elm-sortable-table/blob/master/README.md#about-api-design)
+- [API Design Session video for elm-autocomplete](https://youtu.be/KSuCYUqY058)
 - [Sebastian Porto's Elm Tutorial](https://www.elm-tutorial.org/en/)
 - [Elm Exercism track](http://exercism.io/languages/elm/exercises)
 - [Elm Town Podcast](https://elmtown.github.io/)
