@@ -10,6 +10,8 @@
 - [About API Design section of elm-sortable-table README](https://github.com/evancz/elm-sortable-table/blob/master/README.md#about-api-design)
 - [API Design Session video for elm-autocomplete](https://youtu.be/KSuCYUqY058)
 - [Sebastian Porto's Elm Tutorial](https://www.elm-tutorial.org/en/)
+- [ElmBridge tutorial](https://elmbridge.github.io/curriculum/)
+- [Checkerboard Grid Tutorial](https://github.com/TheSeamau5/elm-checkerboardgrid-tutorial)
 - [Elm Exercism track](http://exercism.io/languages/elm/exercises)
 - [Elm Town Podcast](https://elmtown.github.io/)
 
