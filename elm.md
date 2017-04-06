@@ -5,7 +5,7 @@
 - [Elm Koans](https://github.com/robertjlooby/elm-koans)
 - [Examples from elm-lang.org](https://github.com/elm-lang/elm-lang.org/tree/master/src/examples)
 - [Richard Feldman's intro Elm workshop](https://github.com/rtfeldman/elm-workshop)
-- ["Making Impossible States Impossible" by Richard Feldman](https://www.youtube.com/watch?v=IcgmSRJHu_8)[Elm 
+- ["Making Impossible States Impossible" by Richard Feldman](https://www.youtube.com/watch?v=IcgmSRJHu_8) 
 - [Scaling the Elm Architecture](https://guide.elm-lang.org/reuse/)
 - [About API Design section of elm-sortable-table README](https://github.com/evancz/elm-sortable-table/blob/master/README.md#about-api-design)
 - [API Design Session video for elm-autocomplete](https://youtu.be/KSuCYUqY058)
