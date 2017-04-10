@@ -16,6 +16,14 @@
 - [Elm Exercism track](http://exercism.io/languages/elm/exercises)
 - [Elm Town Podcast](https://elmtown.github.io/)
 
+## Interesting packages
+
+- elm-return
+- remote-data
+- elm-sortable-table
+- elm-autocomplete
+- elm-plot
+
 ## Projects
 
 - [Elm Quickstart](https://github.com/feihong/elm-quickstart)
