@@ -21,6 +21,7 @@
 - [elm-return](http://package.elm-lang.org/packages/Fresheyeball/elm-return/latest)
 - [remotedata](http://package.elm-lang.org/packages/krisajenkins/remotedata/latest)
 - [elm-datepicker](http://package.elm-lang.org/packages/Bogdanp/elm-datepicker/latest)
+- [elm-dialog](http://package.elm-lang.org/packages/krisajenkins/elm-dialog/latest/)
 - elm-sortable-table
 - elm-autocomplete
 - elm-plot
