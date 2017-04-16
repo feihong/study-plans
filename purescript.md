@@ -9,6 +9,7 @@
 ## Libraries
 
 - [Hyper](http://hyper.wickstrom.tech/)
+- [Halogen](https://github.com/slamdata/purescript-halogen)
 
 ## Installation
 
