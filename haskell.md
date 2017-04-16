@@ -9,3 +9,5 @@
 ## Notes
 
 You [should not install Haskell Platform](https://mail.haskell.org/pipermail/haskell-community/2015-September/000014.html). Instead, install [Stack](https://docs.haskellstack.org/en/stable/README/).
+
+You should look into [stylish-haskell](https://github.com/jaspervdj/stylish-haskell), a code prettifier for Haskell.
