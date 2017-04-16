@@ -6,6 +6,10 @@
 - [Selecting a Platform](http://mutanatum.com/posts/2017-01-12-Browser-FP-Head-to-Head.html)
 - [PureScript by Example (book)](https://leanpub.com/purescript)
 
+## Libraries
+
+- [Hyper](http://hyper.wickstrom.tech/)
+
 ## Installation
 
 `yarn global add purescript`
