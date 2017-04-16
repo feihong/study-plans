@@ -4,6 +4,7 @@
 
 - [Haskell Book](http://haskellbook.com/)
 - [How to learn Haskell](https://github.com/bitemyapp/learnhaskell)
+- [Scripting in Haskell](https://www.fpcomplete.com/blog/2016/11/scripting-in-haskell)
 
 ## Notes
 
