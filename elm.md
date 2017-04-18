@@ -22,8 +22,9 @@
 - [remotedata](http://package.elm-lang.org/packages/krisajenkins/remotedata/latest)
 - [elm-datepicker](http://package.elm-lang.org/packages/Bogdanp/elm-datepicker/latest)
 - [elm-dialog](http://package.elm-lang.org/packages/krisajenkins/elm-dialog/latest/)
-- elm-sortable-table
-- elm-autocomplete
+- [elm-sortable-table](http://package.elm-lang.org/packages/evancz/elm-sortable-table/latest)
+- [elm-autocomplete](http://package.elm-lang.org/packages/thebritican/elm-autocomplete/latest)
+- [elm-validate](http://package.elm-lang.org/packages/rtfeldman/elm-validate/latest)
 - elm-plot
 
 ## Projects
