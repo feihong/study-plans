@@ -12,6 +12,7 @@
 - [Sebastian Porto's Elm Tutorial](https://www.elm-tutorial.org/en/)
 - [ElmBridge tutorial](https://elmbridge.github.io/curriculum/)
 - [McMaster Outreach Elm Tutorials](http://outreach.mcmaster.ca/menu/tutorials.html)
+- [Flatris clone in Elm](https://github.com/w0rm/elm-flatris)
 - [Ninety-nine Problems, Solved in Elm](https://johncrane.gitbooks.io/ninety-nine-elm-problems/content/)
 - [Elm Exercism track](http://exercism.io/languages/elm/exercises)
 - [Elm Town Podcast](https://elmtown.github.io/)
