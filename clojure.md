@@ -6,6 +6,7 @@
 - [ClojureScript Unraveled](https://funcool.github.io/clojurescript-unraveled/) (2016)
 - [Modern ClojureScript](https://github.com/magomimmo/modern-cljs) (2017)
 - Web Development with Clojure, 2nd edition (2016)
+- [Fulcro interactive tutorial](https://github.com/fulcrologic/fulcro#12-the-fulcro-tutorial)
 - [Fulcro Video Tutorials](https://youtu.be/pLFOVhWsxMM?list=PLVi9lDx-4C_Rwb8LUwW4AdjAu-39PHgEE) (2017)
 - [Fulcro Developers Guide](http://book.fulcrologic.com/) (2017)
 - [Clojure development with Spacemacs](https://practicalli.github.io/spacemacs/) (2017)
