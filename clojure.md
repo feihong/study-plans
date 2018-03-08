@@ -6,7 +6,8 @@
 - [ClojureScript Unraveled](https://funcool.github.io/clojurescript-unraveled/) (2016)
 - [Modern ClojureScript](https://github.com/magomimmo/modern-cljs) (2017)
 - Web Development with Clojure, 2nd edition (2016)
-- [The Power of Clojure: Debuggin](https://cambium.consulting/articles/2018/2/8/the-power-of-clojure-debugging)
+- [My Clojure Workflow, Reloaded](http://thinkrelevance.com/blog/2013/06/04/clojure-workflow-reloaded)
+- [The Power of Clojure: Debugging](https://cambium.consulting/articles/2018/2/8/the-power-of-clojure-debugging)
 - [Fulcro interactive tutorial](https://github.com/fulcrologic/fulcro#12-the-fulcro-tutorial)
 - Joy of Clojure, 2nd edition (2014)
 - [Fulcro Developers Guide](http://book.fulcrologic.com/) (2017)
@@ -37,6 +38,7 @@
 ## Watching
 
 - [Apropros Show](https://www.youtube.com/channel/UC1UxEQuBvfLJgWR5tk_XIXA)
+- [IntelliJ+Cursive + the "Stuart Sierra" workflow](https://www.youtube.com/watch?v=9pH8jAbnpeo)
 - [Fulcro Video Tutorials](https://youtu.be/pLFOVhWsxMM?list=PLVi9lDx-4C_Rwb8LUwW4AdjAu-39PHgEE) (2017)
 
 ## Frameworks
