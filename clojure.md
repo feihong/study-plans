@@ -1,13 +1,13 @@
 # Clojure
 
-## Todo
+## Reading
 
 - Clojure in Action (2015)
 - [ClojureScript Unraveled](https://funcool.github.io/clojurescript-unraveled/) (2016)
 - [Modern ClojureScript](https://github.com/magomimmo/modern-cljs) (2017)
 - Web Development with Clojure, 2nd edition (2016)
+- [The Power of Clojure: Debuggin](https://cambium.consulting/articles/2018/2/8/the-power-of-clojure-debugging)
 - [Fulcro interactive tutorial](https://github.com/fulcrologic/fulcro#12-the-fulcro-tutorial)
-- [Fulcro Video Tutorials](https://youtu.be/pLFOVhWsxMM?list=PLVi9lDx-4C_Rwb8LUwW4AdjAu-39PHgEE) (2017)
 - Joy of Clojure, 2nd edition (2014)
 - [Fulcro Developers Guide](http://book.fulcrologic.com/) (2017)
 - [Clojure development with Spacemacs](https://practicalli.github.io/spacemacs/) (2017)
@@ -33,6 +33,11 @@
 - [Elements of Clojure](https://leanpub.com/elementsofclojure) - work in progress
 - [Improving and Evaluating Clojure Web Application Architecture](https://dspace.cc.tut.fi/dpub/bitstream/handle/123456789/23944/Kataja_Teperi.pdf?sequence=1&__s=6zzuuwpzq9sdnwezp4np) (2015) - master's thesis
 - The Joy of Clojure, 3rd edition - unclear when this will be published
+
+## Watching
+
+- [Apropros Show](https://www.youtube.com/channel/UC1UxEQuBvfLJgWR5tk_XIXA)
+- [Fulcro Video Tutorials](https://youtu.be/pLFOVhWsxMM?list=PLVi9lDx-4C_Rwb8LUwW4AdjAu-39PHgEE) (2017)
 
 ## Frameworks
 
