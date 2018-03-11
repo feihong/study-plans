@@ -43,8 +43,11 @@
 
 - [Apropros Show](https://www.youtube.com/channel/UC1UxEQuBvfLJgWR5tk_XIXA)
 - [IntelliJ+Cursive + the "Stuart Sierra" workflow](https://www.youtube.com/watch?v=9pH8jAbnpeo)
-- [Fulcro Video Tutorials](https://youtu.be/pLFOVhWsxMM?list=PLVi9lDx-4C_Rwb8LUwW4AdjAu-39PHgEE) (2017)
-
+- [Fulcro Video Tutorials](https://www.youtube.com/playlist?list=PLVi9lDx-4C_Rwb8LUwW4AdjAu-39PHgEE) (2017)
+  - [Fulcro 2.0 Workflow - Part 1](https://www.youtube.com/watch?v=XdLIKOJ4rKg&list=PLVi9lDx-4C_Rwb8LUwW4AdjAu-39PHgEE&index=11&t=0s)
+  - [Fulcro 2.0 Workflow - Part 2](https://www.youtube.com/watch?v=xaM7sqXk32U&list=PLVi9lDx-4C_Rwb8LUwW4AdjAu-39PHgEE&index=12&t=0s)
+  - [Processing Queries on the Server](https://www.youtube.com/watch?v=gbrdnSsUerI&list=PLVi9lDx-4C_Rwb8LUwW4AdjAu-39PHgEE&index=13&t=0s)
+  
 ## Frameworks
 
 - Luminus
