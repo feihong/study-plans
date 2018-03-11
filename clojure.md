@@ -9,6 +9,7 @@
 - [Programming at the REPL (draft)](https://5aa147747b6ee8595c2301b3--clojure-site-preview-vvvvalvalval.netlify.com/guides/repl/introduction.html)
 - [My Clojure Workflow, Reloaded](http://thinkrelevance.com/blog/2013/06/04/clojure-workflow-reloaded)
 - [The Power of Clojure: Debugging](https://cambium.consulting/articles/2018/2/8/the-power-of-clojure-debugging)
+- [Reducers and Transducers Introductory](https://functional.works-hub.com/learn/reducers-and-transducers-introductory-d0cff)
 - [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/)
   - [Mastering concurrent processes with core.async](https://www.braveclojure.com/core-async/)
   - [Boot, the fancy Clojure build framework](https://www.braveclojure.com/appendix-b/)
