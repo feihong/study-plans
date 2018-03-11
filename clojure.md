@@ -48,7 +48,11 @@
   - [Fulcro 2.0 Workflow - Part 1](https://www.youtube.com/watch?v=XdLIKOJ4rKg&list=PLVi9lDx-4C_Rwb8LUwW4AdjAu-39PHgEE&index=11&t=0s)
   - [Fulcro 2.0 Workflow - Part 2](https://www.youtube.com/watch?v=xaM7sqXk32U&list=PLVi9lDx-4C_Rwb8LUwW4AdjAu-39PHgEE&index=12&t=0s)
   - [Processing Queries on the Server](https://www.youtube.com/watch?v=gbrdnSsUerI&list=PLVi9lDx-4C_Rwb8LUwW4AdjAu-39PHgEE&index=13&t=0s)
-  
+
+## Projects
+
+- [Real World example app using re-frame](https://github.com/gothinkster/clojurescript-reframe-realworld-example-app)
+
 ## Frameworks
 
 - Luminus
