@@ -55,6 +55,7 @@
 - [Juxt edge](https://github.com/juxt/edge)
 - [Real World example app using re-frame](https://github.com/gothinkster/clojurescript-reframe-realworld-example-app)
 - [Fulcro TodoMVC](https://github.com/fulcrologic/fulcro-todomvc)
+- [Holiday Ping](https://github.com/lambdaclass/holiday_ping)
 
 ## Frameworks
 
