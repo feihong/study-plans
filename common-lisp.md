@@ -21,5 +21,5 @@
 
 ## Related
 
-- [https://sarabander.github.io/sicp/](https://sarabander.github.io/sicp/)
+- [Structure and Interpretation of Computer Programs 2nd Edition](https://sarabander.github.io/sicp/)
 - [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](https://github.com/norvig/paip-lisp)
