@@ -11,6 +11,8 @@
 - [Interpreting LISP: Programming and Data Structures, Second Edition](https://www.safaribooksonline.com/library/view/interpreting-lisp-programming/9781484227060/)
 - [Full Stack Lisp](https://leanpub.com/fullstacklisp/read)
 - [On Lisp](http://www.paulgraham.com/onlisp.html)
+- [ANSI Common Lisp](http://www.paulgraham.com/acl.html)
+- [Let Over Lambda](https://letoverlambda.com/)
 
 ## Projects
 
