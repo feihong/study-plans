@@ -9,7 +9,7 @@
 - [Factor](http://factorcode.org/) (concatenative)
 - [Picat](http://picat-lang.org/) (logic)
 
-## Frameworks
+## Mobile Frameworks
 
 - [LambdaNative](http://www.lambdanative.org/)
 - [Re-Natal](https://github.com/drapanjanas/re-natal)
