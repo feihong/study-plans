@@ -1,7 +1,8 @@
 # Reason
 
-## Books 
+## Books/tutorials 
 
+- [ReasonReact Tutorial](https://jaredforsyth.com/posts/a-reason-react-tutorial/)
 - [Exploring ReasonML and Functional Programming](http://reasonmlhub.com/exploring-reasonml/) 
 - [Real World OCaml, 2nd edition](https://dev.realworldocaml.org/)
 
@@ -9,3 +10,17 @@
 
 - [ReasonReact Examples](https://github.com/reasonml-community/reason-react-example)
 - [ReasonReact Hacker News](https://github.com/reasonml-community/reason-react-hacker-news)
+- [RealWorld ReasonReact Example](https://github.com/gothinkster/reasonml-realworld-example-app)
+
+## Notable libraries/frameworks
+
+- [Belt](https://bucklescript.github.io/bucklescript/api/Belt.html)
+- [ReasonReact](https://reasonml.github.io/reason-react/en/)
+- [Reprocessing](https://github.com/Schmavery/reprocessing)
+- @glennsl/bs-jest
+- @glennsl/bs-json
+- bs-axios
+
+## Related
+
+[F# Exercism Exercises](http://exercism.io/languages/fsharp/about) - F# is similar, so solutions would be similar
