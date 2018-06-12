@@ -1,5 +1,10 @@
 # Reason
 
+## Todo
+
+- Implement algorithms in [Grokking Algorithms](https://www.safaribooksonline.com/library/view/grokking-algorithms-an/9781617292231/)
+- Implement algorithms in [Python Algorithms: Mastering Basic Algorithms in the Python Language, Second Edition](https://www.safaribooksonline.com/library/view/python-algorithms-mastering/9781484200551/)
+
 ## Books/tutorials 
 
 - [ReasonReact Tutorial](https://jaredforsyth.com/posts/a-reason-react-tutorial/)
@@ -20,7 +25,11 @@
 - @glennsl/bs-jest
 - @glennsl/bs-json
 - bs-axios
+- bs-luxon
+- bs-express
+- bs-react-native
+
 
 ## Related
 
-[F# Exercism Exercises](http://exercism.io/languages/fsharp/about) - F# is similar, so solutions would be similar
+- [F# Exercism Exercises](http://exercism.io/languages/fsharp/about) - F# is similar, so solutions should be similar
