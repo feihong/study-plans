@@ -28,7 +28,8 @@
 - bs-luxon
 - bs-express
 - bs-react-native
-
+- [Future (alternative to Js.Promise)](https://github.com/RationalJS/future)
+- [Aeropress](https://github.com/RationalJS/Aeropress)
 
 ## Related
 
