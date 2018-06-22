@@ -5,6 +5,11 @@
 - Implement algorithms in [Grokking Algorithms](https://www.safaribooksonline.com/library/view/grokking-algorithms-an/9781617292231/)
 - Implement algorithms in [Python Algorithms: Mastering Basic Algorithms in the Python Language, Second Edition](https://www.safaribooksonline.com/library/view/python-algorithms-mastering/9781484200551/)
 
+## Reading
+
+- [Creating global state in ReasonReact](https://medium.com/@Hehk/creating-global-state-in-reasonreact-f84701c6ab6)
+- [Application State in ReasonReact](https://medium.com/@elvesbane/application-state-in-reasonreact-1626859366a8)
+
 ## Books/tutorials 
 
 - [ReasonReact Tutorial](https://jaredforsyth.com/posts/a-reason-react-tutorial/)
@@ -29,8 +34,10 @@
 - bs-express
 - bs-react-native
 - [bs-sqlite](https://github.com/scull7/bs-sqlite)
+- [reason-apollo](https://github.com/apollographql/reason-apollo)
 - [Future (alternative to Js.Promise)](https://github.com/RationalJS/future)
 - [Aeropress](https://github.com/RationalJS/Aeropress)
+- [reason-react-context](https://github.com/Hehk/reason-react-context)
 
 ## Related
 
