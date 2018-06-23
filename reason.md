@@ -33,6 +33,7 @@
 - bs-luxon
 - bs-express
 - bs-react-native
+- [reductive](https://github.com/reasonml-community/reductive)
 - [bs-sqlite](https://github.com/scull7/bs-sqlite)
 - [reason-apollo](https://github.com/apollographql/reason-apollo)
 - [Future (alternative to Js.Promise)](https://github.com/RationalJS/future)
