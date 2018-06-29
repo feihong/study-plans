@@ -39,6 +39,7 @@
 - [Future (alternative to Js.Promise)](https://github.com/RationalJS/future)
 - [Aeropress](https://github.com/RationalJS/Aeropress)
 - [reason-react-context](https://github.com/Hehk/reason-react-context)
+- [bs-material-ui](https://github.com/InsidersByte/bs-material-ui)
 
 ## Related
 
