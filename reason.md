@@ -7,6 +7,7 @@
 
 ## Reading
 
+- [RFC 0001: Standard Library Interfaces](https://github.com/ReasonMLSthlm/community-rfcs/blob/master/text/0001-standard-library-interfaces.md)
 - [Proper way to handle events within stateless components?](https://reasonml.chat/t/proper-way-to-handle-events-within-stateless-components/748)
 - [Creating global state in ReasonReact](https://medium.com/@Hehk/creating-global-state-in-reasonreact-f84701c6ab6)
 - [Application State in ReasonReact](https://medium.com/@elvesbane/application-state-in-reasonreact-1626859366a8)
