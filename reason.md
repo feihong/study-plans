@@ -29,12 +29,13 @@
 - [Belt](https://bucklescript.github.io/bucklescript/api/Belt.html)
 - [ReasonReact](https://reasonml.github.io/reason-react/en/)
 - [Reprocessing](https://github.com/Schmavery/reprocessing)
-- @glennsl/bs-jest
-- @glennsl/bs-json
-- bs-axios
+- [@glennsl/bs-jest](https://github.com/glennsl/bs-jest)
+- [@glennsl/bs-json](https://github.com/glennsl/bs-json)
+- [bs-axios](https://github.com/meafmira/bs-axios)
 - bs-luxon
 - bs-express
 - bs-react-native
+- [bs-knex](https://github.com/bkonkle/bs-knex)
 - [reductive](https://github.com/reasonml-community/reductive)
 - [bs-sqlite](https://github.com/scull7/bs-sqlite)
 - [reason-apollo](https://github.com/apollographql/reason-apollo)
