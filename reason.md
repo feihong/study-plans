@@ -32,7 +32,7 @@
 - [@glennsl/bs-jest](https://github.com/glennsl/bs-jest)
 - [@glennsl/bs-json](https://github.com/glennsl/bs-json)
 - [bs-axios](https://github.com/meafmira/bs-axios)
-- bs-luxon
+- [bs-luxon](https://github.com/davidgomes/bs-luxon)
 - bs-express
 - bs-react-native
 - [bs-knex](https://github.com/bkonkle/bs-knex)
@@ -43,6 +43,7 @@
 - [Aeropress](https://github.com/RationalJS/Aeropress)
 - [reason-react-context](https://github.com/Hehk/reason-react-context)
 - [bs-material-ui](https://github.com/InsidersByte/bs-material-ui)
+- [nact](https://github.com/ncthbrt/reason-nact)
 
 ## Related
 
