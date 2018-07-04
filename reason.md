@@ -33,8 +33,8 @@
 - [@glennsl/bs-json](https://github.com/glennsl/bs-json)
 - [bs-axios](https://github.com/meafmira/bs-axios)
 - [bs-luxon](https://github.com/davidgomes/bs-luxon)
-- bs-express
-- bs-react-native
+- [bs-express](https://github.com/reasonml-community/bs-express)
+- [bs-react-native](https://github.com/reasonml-community/bs-react-native)
 - [bs-knex](https://github.com/bkonkle/bs-knex)
 - [reductive](https://github.com/reasonml-community/reductive)
 - [bs-sqlite](https://github.com/scull7/bs-sqlite)
@@ -44,6 +44,7 @@
 - [reason-react-context](https://github.com/Hehk/reason-react-context)
 - [bs-material-ui](https://github.com/InsidersByte/bs-material-ui)
 - [nact](https://github.com/ncthbrt/reason-nact)
+- [bs-storybook](https://github.com/MyWellGiving/bs-storybook)
 
 ## Related
 
