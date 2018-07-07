@@ -45,6 +45,7 @@
 - [bs-material-ui](https://github.com/InsidersByte/bs-material-ui)
 - [nact](https://github.com/ncthbrt/reason-nact)
 - [bs-storybook](https://github.com/MyWellGiving/bs-storybook)
+- [bs-enzyme](https://github.com/rhysforyou/bs-enzyme)
 
 ## Related
 
