@@ -14,6 +14,7 @@
 
 ## Books/tutorials 
 
+- [Learn ReasonML, based on Jane Street's Learn OCaml](https://github.com/protoship/learn-reasonml-workshop/)
 - [ReasonReact Tutorial](https://jaredforsyth.com/posts/a-reason-react-tutorial/)
 - [Exploring ReasonML and Functional Programming](http://reasonmlhub.com/exploring-reasonml/) 
 - [Real World OCaml, 2nd edition](https://dev.realworldocaml.org/)
