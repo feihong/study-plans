@@ -16,7 +16,11 @@
 
 - [PureScript by Example](https://github.com/paf31/purescript-book)
 - [Completed exercies for PureScript by Example](https://github.com/beckyconning/purescript-by-example)
+
+## Tutorials
+
 - [JavaScript to PureScript](https://github.com/adkelley/javascript-to-purescript)
+- [PureScript lessons on egghead.io](https://egghead.io/search?q=purescript)
 
 ## Libraries
 
