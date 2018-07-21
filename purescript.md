@@ -33,6 +33,7 @@
 - [purescript-quickserve](https://github.com/paf31/purescript-quickserve)
 - [purescript-aff](https://github.com/slamdata/purescript-aff)
 - [purescript-affjax](https://github.com/slamdata/purescript-affjax)
+- [purescript-milkis](https://github.com/justinwoo/purescript-Milkis)
 - [purescript-affjax-algebra](https://github.com/slamdata/purescript-affjax-algebra)
 - [purescript-node-fs-aff](https://github.com/purescript-node/purescript-node-fs-aff)
 - [purescript-css](https://github.com/slamdata/purescript-css)
@@ -41,6 +42,8 @@
 - [purescript-quickcheck](https://github.com/purescript/purescript-quickcheck)
 - [purescript-validation](https://github.com/purescript/purescript-validation)
 - [purescript-datetime](https://github.com/purescript/purescript-datetime)
+- [purescript-simple-json](https://github.com/justinwoo/purescript-simple-json)
+- [purescript-node-sqlite3](https://github.com/justinwoo/purescript-Node-Sqlite3)
 
 ## Related
 
