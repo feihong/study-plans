@@ -41,3 +41,10 @@
 - [purescript-quickcheck](https://github.com/purescript/purescript-quickcheck)
 - [purescript-validation](https://github.com/purescript/purescript-validation)
 - [purescript-datetime](https://github.com/purescript/purescript-datetime)
+
+## Related
+
+- [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
+- [Fantasy Land Specification](https://github.com/fantasyland/fantasy-land)
+- [Get Programming with Haskell](https://www.safaribooksonline.com/library/view/get-programming-with/9781617293764/)
+- [Functional Programming in Scala](https://www.safaribooksonline.com/library/view/functional-programming-in/9781617290657/)
