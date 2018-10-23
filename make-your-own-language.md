@@ -4,7 +4,7 @@
 - [mal - Make a Lisp](https://github.com/kanaka/mal)
 - [Scheme from Scratch](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_1-integers)
 - [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
-- [Writing a List (in OCaml)](https://bernsteinbear.com/blog/lisp/00_fundamentals/)
+- [Writing a Lisp (in OCaml)](https://bernsteinbear.com/blog/lisp/00_fundamentals/)
 - [Crafting Interpreters](http://www.craftinginterpreters.com/)
 - [Write You A Scheme, Version 2.0](https://wespiser.com/writings/wyas/00_overview.html)
 - [Writing an Interpreter in Go](https://interpreterbook.com/)
