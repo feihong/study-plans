@@ -15,3 +15,4 @@
 - [The Programming Languages Zoo](https://github.com/andrejbauer/plzoo)
 - [Grow Your Own Type System](https://github.com/tomprimozic/type-systems)
 - [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours) (older version of Write You a Scheme v 2.0)
+- [Hacker News threads on Build Your Own Lisp](https://hn.algolia.com/?query=build%20your%20own%20lisp&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
