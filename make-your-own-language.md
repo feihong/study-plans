@@ -10,3 +10,4 @@
 - [Writing an Interpreter in Go](https://interpreterbook.com/)
 - [Scheme 9 from Empty Space](http://t3x.org/s9book/index.html)
 - [How to Create Your Own Freaking Awesome Programming Language](http://createyourproglang.com/)
+- [Grow Your Own Type System](https://github.com/tomprimozic/type-systems)
